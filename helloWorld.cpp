@@ -1,9 +1,9 @@
 #include<iostream>
 
-
+using std::cout;
+using std::endl;
 int main(){
-
-    std::cout<<"The whole world is watching now. Welcome to the real world, kid."<<std::endl;
-
+    
+    cout<<"The whole world is watching now. Welcome to the real world, kid."<<endl;
     return 0;
 }
